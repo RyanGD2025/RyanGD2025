@@ -9,4 +9,4 @@ My social links is:
 **X (Twitter)**: [RyanGD2025 on X](x.com/ryangd2025)
 
 ## Your game engine will come in what year?
-My **game engine** that is **Cube Studio** will launch in 2026 or 2030
+My **game engine** that is **Cube Studio** will launch in 2026 - 2030
