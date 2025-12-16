@@ -10,7 +10,7 @@ My social links is:
 
 ![Youtube](Youtube.png) **Youtube**: [RyanGD2025 on Youtube](https://m.youtube.com/channel/UCHjDk5TgsoVf3dAbIaz04Vg)
 
-**Reddit**: [RyanGD2025 on Reddit](https://www.reddit.com/user/RyanGD2025/)
+![Reddit](Reddit.png) **Reddit**: [RyanGD2025 on Reddit](https://www.reddit.com/user/RyanGD2025/)
 
 ![X](X.png) **X (Twitter)**: [RyanGD2025 on X](x.com/ryangd2025)
 
