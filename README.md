@@ -3,9 +3,9 @@
 ![CSS](CSS.png)
 
 ---
-# Hello World!
+# 👋 Hello World!
 Hello World! I'm RyanGD2025 and i am a programer like: Programing in **HTML**, **CSS** and **Lua**!
-## My Social links
+## 📱 My Social links
 My social links is:
 
 **Youtube**: [RyanGD2025 on Youtube](https://m.youtube.com/channel/UCHjDk5TgsoVf3dAbIaz04Vg)
@@ -16,5 +16,5 @@ My social links is:
 
 ## Your game engine will come in what year?
 My **game engine** that is **Cube Studio** will launch in 2026 - 2030
-### Contact me
+### ✉️ Contact me
 ryanbordez@gmail.com
