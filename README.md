@@ -20,3 +20,6 @@ My **game engine** that is **Cube Studio** will launch in 2026 - 2030
 ---
 ### ✉️ Contact me
 ryanbordez@gmail.com
+
+---
+Follow me
