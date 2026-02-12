@@ -14,12 +14,9 @@ My social links is:
 
 ![X](X.png) **X (Twitter)**: [RyanGD2025 on X](x.com/ryangd2025)
 
-## 💻 Your game engine will come in what year?
-My **game engine** that is **Cube Studio** will launch in 2026 - 2030
-
 ---
 ### ✉️ Contact me
 ryanbordez@gmail.com
 
----
-Follow me
+### If you want to see my organization:
+[https://github.com/cubey-studio/cubey-studio](https://github.com/cubey-studio/)
